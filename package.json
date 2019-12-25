@@ -1,0 +1,20 @@
+{
+  "name": "@shooontan/tsconfig",
+  "description": "TypeScript config",
+  "version": "0.0.1",
+  "author": "shooontan",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "ts",
+    "tsconfig",
+    "typescript"
+  ],
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "repository": "shooontan/tsconfig"
+}
